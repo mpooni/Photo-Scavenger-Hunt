@@ -2,7 +2,8 @@
 
 Submitted by: **Manasa Pooni**
 
-**Photo Scavenger Hunt** is an app that has a list that requires user to attach photo based on the task 
+**Photo Scavenger Hunt** is an app that has has a list which requires the user to attach photos based on a task. After attaching the photo to a task, the app shows the user where that photo was taken in a map.
+
 
 Time spent: **9** hours spent in total
 
@@ -28,6 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+/private/var/folders/f6/gjwjhfz15bs8gqwq_5wy4q7m0000gn/T/e6881d7dc45f7aa436d71ba0578e1664/Kapture 2023-03-20 at 23.29.04.gif
 
 GIF created with kap 
 
